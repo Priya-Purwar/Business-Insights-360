@@ -214,7 +214,7 @@ In Home view, all the views button will be available. User will land on specific
 Info Page
 
 Finance View
-
+![Finance View](https://github.com/yourusername/your-repo/raw/main/path/to/screenshot1.png)
 Sales View
 
 Marketing View
