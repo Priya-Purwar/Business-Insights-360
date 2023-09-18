@@ -213,7 +213,8 @@ In Home view, all the views button will be available. User will land on specific
 
 Info Page
 
-![Finance View]!(https://github.com/Priya-Purwar/Business-Insights-360/raw/main/path/to/Finance View.png)
+Finance View
+
 Sales View
 
 Marketing View
