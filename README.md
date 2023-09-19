@@ -212,9 +212,9 @@ In Home view, all the views button will be available. User will land on specific
 •	Support
 
 Info Page
+![Home Page](https://github.com/Priya-Purwar/Business-Insights-360/blob/main/Screenshot%201.png)
 
 Finance View
-![Finance View](https://github.com/yourusername/your-repo/raw/main/path/to/screenshot1.png)
 
 Sales View
 
